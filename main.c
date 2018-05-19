@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main(){
-    int i =10;
-    while(i>=1){
-        printf("%d ", i++);
-        i/=2;
-    }
+    int i;
+    scanf("%o", &i);
     printf("%d", i);
 }
