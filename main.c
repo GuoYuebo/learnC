@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main(){
-    int i;
-    scanf("%o", &i);
-    printf("%d", i);
+#include<stdlib.h>
+#include<string.h>
+int main(int argc, char *argv[]){
 }
